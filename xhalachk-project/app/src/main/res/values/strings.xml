@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">SmartWasteBrno</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select</string>
+    <string name="date">Date</string>
+    <string name="welcome_to">Welcome to </string>
+
+
+
+    <string name="intro_title_1">Welcome to SmartWasteBrno!</string>
+    <string name="intro_title_2">Immediate waste recognition</string>
+    <string name="intro_title_3">Container map at your fingertips</string>
+
+
+    <string name="intro_text_1">Your personal guide to smart waste sorting.</string>
+    <string name="intro_text_2">Use your camera or gallery to scan your waste, and our AI will immediately tell you what it is.</string>
+    <string name="intro_text_3">Once it has identified the waste, the app will immediately show you the way to the nearest recycling bin..</string>
+
+    <string name="compose">Jetpack Compose</string>
+    <string name="continue_to_app">Continue</string>
+    <string name="task_text">Task text</string>
+    <string name="map">Map</string>
+    <string name="save_location">Save location</string>
+    <string name="marker_help">Hold your finger on Marker to move it</string>
+    <string name="location">Location</string>
+    <string name="home">Homes</string>
+    <string name="add">Add</string>
+    <string name="back">Back</string>
+
+    //map
+    <string name="map_screen_title">Map</string>
+    <string name="sort">Sort</string>
+    <string name="address">Address: </string>
+    <string name="type">Type: </string>
+    <string name="volume">Volume: </string>
+
+    //photo picker
+    <string name="analyze">Analyze</string>
+    <string name="detected">Detected</string>
+    <string name="pick_photo">Pick photo</string>
+    <string name="selected_image">Selected image</string>
+    <string name="placeholder_image">Placeholder image</string>
+    <string name="navigate_to_map">Navigate to map</string>
+    <string name="error">Error</string>
+    <string name="photo_picker">Photo Picker</string>
+    <string name="waste_type">Waste type</string>
+    <string name="bio_waste">Bio Waste</string>
+    <string name="mixed_waste">Mixed Waste</string>
+
+    //home
+    <string name="last_sorting">Last sorting</string>
+    <string name="sorting_history">Sorting history</string>
+    <string name="delete">Delete</string>
+    <string name="choose_way">Choose a way to sort</string>"
+    <string name="scan_a_photo">Scan a photo</string>
+    <string name="choose_category">Choose category</string>
+    <string name="navigate">Navigate</string>
+
+    //category
+    <string name="category">Category</string>
+    <string name="glass">Glass</string>
+    <string name="plastic">Plastic</string>
+    <string name="metal">Metal</string>
+    <string name="paper">Paper</string>
+    <string name="bio">Bio</string>
+
+    //detail
+    <string name="detail_screen">Detail</string>
+    <string name="unknown">Unknown</string>
+
+    //detection
+    <string name="detection_screen">Detection</string>
+
+
+
+
+    //communication
+    <string name="exception">Exception</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="failed_to_load_collections">Failed to load collections</string>
+</resources>

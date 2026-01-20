@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartWasteBrno</string>
+    <string name="clear">Vymazat</string>
+    <string name="cancel">Zrušit</string>
+    <string name="select">Vybrat</string>
+    <string name="date">Datum</string>
+    <string name="welcome_to">Vítejte v </string>
+
+
+    <string name="intro_title_1">Vítejte ve SmartWasteBrno!</string>
+    <string name="intro_title_2">Okamžité rozpoznání odpadu</string>
+    <string name="intro_title_3">Mapa kontejnerů na dosah ruky</string>
+
+    <string name="intro_text_1">Váš osobní průvodce chytrým tříděním odpadu.</string>
+    <string name="intro_text_2">Pomocí fotoaparátu nebo galerie naskenujte odpad a naše AI vám okamžitě řekne, o co se jedná.</string>
+    <string name="intro_text_3">Jakmile aplikace odpad identifikuje, ihned vám ukáže cestu k nejbližšímu kontejneru na tříděný odpad.</string>
+
+    <string name="compose">Jetpack Compose</string>
+    <string name="continue_to_app">Pokračovat</string>
+    <string name="task_text">Text úkolu</string>
+    <string name="map">Mapa</string>
+    <string name="save_location">Uložit polohu</string>
+    <string name="marker_help">Podržením prstu na značce ji můžete přesunout</string>
+    <string name="location">Poloha</string>
+    <string name="home">Domů</string>
+    <string name="add">Přidat</string>
+    <string name="back">Zpět</string>
+
+    <string name="map_screen_title">Mapa</string>
+
+    <string name="analyze">Analyzovat</string>
+    <string name="detected">Zjištěno</string>
+    <string name="pick_photo">Vybrat fotku</string>
+    <string name="selected_image">Vybraný obrázek</string>
+    <string name="placeholder_image">Zástupný obrázek</string>
+    <string name="navigate_to_map">Přejít na mapu</string>
+    <string name="error">Chyba</string>
+    <string name="photo_picker">Výběr fotky</string>
+    <string name="waste_type">Typ odpadu</string>
+    <string name="bio_waste">Bioodpad</string>
+    <string name="mixed_waste">Směsný odpad</string>
+
+    <string name="sort">Třídit</string>
+    <string name="address">Adresa: </string>
+    <string name="type">Typ: </string>
+    <string name="volume">Objem: </string>
+
+
+    <string name="last_sorting">Poslední třídění</string>
+    <string name="sorting_history">Historie třídění</string>
+    <string name="delete">Smazat</string>
+    <string name="choose_way">Vyberte způsob třídění</string>
+    <string name="scan_a_photo">Naskenovat fotku</string>
+    <string name="choose_category">Vyberte kategorii</string>
+    <string name="navigate">Navigovat</string>
+
+    <string name="category">Kategorie</string>
+    <string name="glass">Sklo</string>
+    <string name="plastic">Plasty</string>
+    <string name="metal">Kovy</string>
+    <string name="paper">Papír</string>
+    <string name="bio">Bio</string>
+
+    <string name="detail_screen">Detail</string>
+    <string name="unknown">Neznámé</string>
+    <string name="detection_screen">Detekce</string>
+
+    <string name="exception">Výjimka</string>
+    <string name="no_internet_connection">Žádné připojení k internetu</string>
+    <string name="unknown_error">Neznámá chyba</string>
+    <string name="failed_to_load_collections">Nepodařilo se načíst sbírky</string>
+</resources>
