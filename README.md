@@ -1,0 +1,1 @@
+# smart-waste-manager-kotlin
