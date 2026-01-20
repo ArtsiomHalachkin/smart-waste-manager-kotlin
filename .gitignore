@@ -1,5 +1,4 @@
 *.iml
-.gradle
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -15,3 +14,10 @@
 local.properties
 
 .idea
+
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+gradle.properties
+settings.gradle.kts
