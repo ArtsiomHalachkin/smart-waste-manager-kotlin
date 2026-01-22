@@ -16,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartWasteBrno">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCWwPXq2DAyX9zO6cAlBx_13UHfXbZUbro"/>
+            android:value="your_google_api"/>
 
         <activity
             android:name=".ui.activities.AppIntroActivity"
